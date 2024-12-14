@@ -2,8 +2,11 @@
 - The goal of this HR analytics report is to:
 
 **- Analyze Attrition:** Identify factors contributing to employee attrition (16.17%) across departments, age groups, education levels, and roles.
+
 **- Understand Behavioral Factors:** Evaluate job satisfaction, work-life balance, and relationship satisfaction to assess their impact on attrition.
+
 **- Examine Career Progression:** Assess metrics such as years in the current role, years since last promotion, and salary hikes to uncover their influence on attrition.
+
 **- Provide Insights:** Derive actionable insights for improving employee retention and engagement.
 
 **Steps Followed**
