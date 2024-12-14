@@ -10,11 +10,13 @@
 **- Provide Insights:** Derive actionable insights for improving employee retention and engagement.
 
 **Steps Followed**
+
 **1] Data Preparation:**
 Consolidated data on employees’ demographics, compensation, behavioral scores, and career progression.
 Segmented data by departments, roles, and salary brackets.
 
 **2] Exploratory Data Analysis:**
+
 **1.Attrition Analysis:**
 - Total employees: 1,416.
 - Attrition count: 229 (16.17%).
@@ -64,6 +66,7 @@ Calculate the Average Metric of people Leaving :
 We would be doing the similar thing we did with Behavioural Analysis.
 
 Calculate the Attrition Rate :
+
 **5. AR YrsInCurrRole** = CALCULATE([Attrition Rate],HR_Analytics[YearsInCurrentRole] <= 15.2)
 Calculating the Attrition Rate of people having Years in Current Role less than Average.
 
